@@ -1,6 +1,6 @@
 <h1>Trafalgar </h1>
 
-This project was developed as a part of a task assigned by Deep Thought. The project provides a basic landing page with testimonials, services, and other dynamic elements powered by JavaScript and CSS.
+ The project provides a basic landing page with testimonials, services, and other dynamic elements powered by JavaScript and CSS.
 
 Features
 1.Responsive design using HTML and CSS.
@@ -49,5 +49,4 @@ Download App Section: Promotes downloading the app.<br/>
 
 <h1>Task Information
 </h1>
-This project was created as part of a task given by Deep Thought, aimed at developing a basic webpage with dynamic elements and responsive design.
 
