@@ -47,6 +47,3 @@ Download App Section: Promotes downloading the app.<br/>
 7.Swiper: For the interactive slider used in the testimonials section.<br/>
 
 
-<h1>Task Information
-</h1>
-
